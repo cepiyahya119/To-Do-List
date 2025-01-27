@@ -1,0 +1,6 @@
+Pastikan server lokal (XAMPP/LAMP) berjalan.
+Letakkan folder login_system di direktori htdocs.
+Akses http://localhost/login_system melalui browser.
+Login menggunakan:
+Username: admin, Password: admin123
+Username: user, Password: user123
